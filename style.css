@@ -1,0 +1,45 @@
+body{
+  background-color: #FFD124;
+}
+
+.container {
+  text-align-last: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.leftcontainer, .rightcontainer {
+  margin: 5% 13%;
+
+}
+
+.toptitle {
+  color: #00AFC1;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Mogra', cursive;
+}
+ footer{
+
+   text-align: center;
+   margin: 0;
+
+ }
+h3{
+  font-family: 'Tapestry', cursive;
+  font-size: 2rem;
+  color: #006778;
+  margin-top: 0;
+}
+
+img{
+ width: 175px;
+
+}
+hr{
+border: solid 1px #9c060c;
+margin: 0;
+
+}
