@@ -1,2 +1,2 @@
-# Dice_Challenge-
+# Dice_Challenge
 HTML, CSS, JS
